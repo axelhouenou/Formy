@@ -149,4 +149,4 @@ Cette architecture peut s’appuyer sur AWS, Azure ou Google Cloud : le Load Bal
 
 ## Crédits
 
-**Projet réalisé par Fresnel Gbetie, avec l’accompagnement d’Axel Houenou.**
+**Projet réalisé par Axel Houenou
